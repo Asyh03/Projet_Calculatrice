@@ -35,8 +35,6 @@ Interface réalisée avec CustomTkinter :
 
 ---
 
-## 📦 Installation
-
-### 1. Cloner le projet
+## Aperçu
 
 <img width="467" height="782" alt="image" src="https://github.com/user-attachments/assets/fe63838b-b79b-44c8-ad85-4a4bebdb136e" />
